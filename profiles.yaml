@@ -1,0 +1,8 @@
+# Admedi app profiles
+# Aliases for --app flag across all CLI commands
+
+profiles:
+  ss-ios: "1f93a90ad"
+  ss-google: "1f93aca35"
+  hexar-ios: "676996cd"
+  hexar-google: "67695d45"

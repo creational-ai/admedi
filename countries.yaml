@@ -1,0 +1,42 @@
+# Admedi country groups
+# Portfolio-wide country group definitions
+
+US:
+- US
+tier-2:
+- AU
+- CA
+- DE
+- FR
+- GB
+- JP
+- KR
+- NL
+- NZ
+- SA
+- TW
+tier-2-2:
+- AU
+- CA
+- DE
+- GB
+- JP
+- NL
+tier-3:
+- FR
+- MY
+- NL
+- TW
+tier-2-3:
+- AU
+- CA
+- DE
+- GB
+- JP
+- NZ
+tier-2-4:
+- AU
+- CA
+- DE
+- GB
+- NZ

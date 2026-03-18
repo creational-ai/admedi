@@ -1,8 +1,28 @@
 # Admedi app profiles
-# Aliases for --app flag across all CLI commands
+# Single source of truth for app identity (alias -> app_key, app_name, platform)
 
 profiles:
-  ss-ios: "1f93a90ad"
-  ss-google: "1f93aca35"
-  hexar-ios: "676996cd"
-  hexar-google: "67695d45"
+  ss-ios:
+    app_key: "1f93a90ad"
+    app_name: "Shelf Sort - Organize & Match"
+    platform: iOS
+  ss-google:
+    app_key: "1f93aca35"
+    app_name: "Shelf Sort - Organize & Match"
+    platform: Android
+  hexar-ios:
+    app_key: "676996cd"
+    app_name: "Hexar.io - #1 in IO Games"
+    platform: iOS
+  hexar-google:
+    app_key: "67695d45"
+    app_name: "Hexar.io"
+    platform: Android
+  ws-ios:
+    app_key: "1e8106425"
+    app_name: "Word Search iOS"
+    platform: iOS
+  ws-google:
+    app_key: "1e8109dad"
+    app_name: "Word Search Play"
+    platform: Android
